@@ -1,7 +1,7 @@
 // Github:  <NONE>
 // By:      K0D3R
 // Contact: https://app.roll20.net/users/2234901/k0d3r
-// Macro:   !biz ?{PROPERTY|Abbey,20|Farm,0.5|Guildhall,5|Inn (Rural),10|Inn (Town),5|Keep or Small Castle,100|Logde (Hunting),0.5|Noble Estate,10|Outpost or Fort,50|Palace or Large Castle,400|Shop,2|Temple (Large),25|Temple (Small),1|Tower (Fortified),25|Trading Post,10} ?{WEEKS WORKED}
+// Macro:   !biz work ?{PROPERTY|Abbey,20|Farm,0.5|Guildhall,5|Inn (Rural),10|Inn (Town),5|Keep or Small Castle,100|Logde (Hunting),0.5|Noble Estate,10|Outpost or Fort,50|Palace or Large Castle,400|Shop,2|Temple (Large),25|Temple (Small),1|Tower (Fortified),25|Trading Post,10} ?{WEEKS WORKED}
 
 
 var EZBiz = EZBiz || (function () {
